@@ -6,3 +6,9 @@ OS: Ubuntu 14.04
 IDE: anjuta  
 Compiler: GCC  
 Dependency: PBC Library(https://crypto.stanford.edu/pbc/)  
+# Run Project
+```git clone https://github.com/Shareong/SPCHS_Parallel_Retrieval.git sspcpr```  
+```cd sspcpr/src```  
+```make```  
+```cd ..```  
+```./sspcpr```  
